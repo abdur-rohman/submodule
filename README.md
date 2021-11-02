@@ -1,3 +1,3 @@
 ## Submodule
 
-Ini adalah submodule
+Ini adalah submodule dari root module
